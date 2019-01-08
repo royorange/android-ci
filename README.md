@@ -1,4 +1,6 @@
 # Android-CI
+This environment based on linux.  
+It include some tools like fastlane,ruby etc.
 The docker image has already been pushed to dockerhub.  
 - 28.0.3  
   `docker pull royorange/android-ci:28.0.3`  
