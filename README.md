@@ -1,5 +1,5 @@
 # Android-CI
-The docker image has already been push to dockerhub.  
+The docker image has already been pushed to dockerhub.  
 - 28.0.3  
   `docker pull royorange/android-ci:28.0.3`  
   The docker image of api 28. It use 28.0.3 build tools.
